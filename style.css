@@ -80,7 +80,7 @@ header {
 .home {
     width: 100%;
     min-height: 100vh;
-    background: url(img/coffee-beans-with-props-making-coffee.jpg);
+    background: url(img/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
